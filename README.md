@@ -13,3 +13,8 @@ Este es un juego simple creado en Python utilizando la libreria Pygame, el objet
 
 1. Clona este repositorio o descarga el archivo ZIP.
 2. Abre el archivo main.py y ejecutalo, así comenzará el juego.
+
+## Créditos
+
+- Jugador, bombas y explosión obtenidas en: https://pixelfrog-assets.itch.io/pixel-adventure-1
+- Background obtenido en: https://edermunizz.itch.io/free-pixel-art-forest
